@@ -2,6 +2,8 @@
 
 # 🚀 Landing Page - Meu Portfólio
 
+https://landingpage-meu-portifolio.netlify.app/
+
 Este projeto consiste no desenvolvimento de uma Landing Page responsiva e moderna, projetada para funcionar como uma vitrine profissional de projetos e competências técnicas em desenvolvimento de sistemas.
 
 ## 📋 Sobre o Projeto
