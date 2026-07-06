@@ -12,7 +12,6 @@ A página foi estruturada com foco em uma experiência de usuário (UX) fluida, 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5:** Estruturação semântica do conteúdo.
 * **CSS3:** Estilização personalizada, layout responsivo (Media Queries) e efeitos visuais.
-* **JavaScript (Vanilla):** Implementação de interações dinâmicas e comportamento da interface.
 * **Git & GitHub:** Controle de versão e hospedagem do código-fonte.
 
 ## 🧑‍💻 Autor e Desenvolvimento Técnico
